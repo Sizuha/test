@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://sizuha.github.io/test/download/gngs-app.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://sizuha.github.io/test/icon-1024.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://sizuha.github.io/test/icon-1024.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
