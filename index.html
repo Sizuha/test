@@ -15,14 +15,13 @@
 
   gtag('config', 'G-HKNY30T8D8');
 </script>
-
 </head>
 
 <body>
     <script type="text/javascript">
         gtag('get', 'G-HKNY30T8D8', 'client_id', function(clientId) {
-            //Unity.call('ga_client_id=' + clientId);
             console.log(clientId);
+            Unity.call('ga_client_id=' + clientId);
         });
     </script>
 
